@@ -1,0 +1,22 @@
+// ==============================SECTION 5======================================
+
+- created the dir galaxy far far away and death star
+- I copied storm trooper from death star to galaxy far far away and then to tatooine
+- Moved luke and obi wan to millenium falcon
+- Moved millenium falcon to galaxy far far away
+- Moved millenium falcon out of galaxy far far away and into death star
+- Moved Princess leia to millenium falcon
+- Removed obi wan
+- Created yavin 4 and moved millenium falcon out of death star 
+- Millenium falcon didn't moved to yavin 4 it disappeared (I made another Millenium Falcon dir in yavin 4)
+- Created x wing in yavin 4
+- Moved millenium flacon and x wing into galaxy far far away
+- Made tie fighter 1, tie fighter 2, and tie fighter 3 in death star
+- Moved darth vader in tie fighter 1
+- Made a copy of storm trooper in tie fighter 2 and tie fighter 3
+- I moved tie fighter 1, tie fighter 2, and tie fighter 3 out of death star and into galaxy far far away
+- I removed tie fighter 2 and tie fighter 3
+- I touched the force in x wing
+- I removed death star and all inside
+- Moved x wing and Millenium falcon into yavin
+-
