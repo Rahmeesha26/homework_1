@@ -1,22 +1,28 @@
 // ==============================SECTION 5======================================
 
-- created the dir galaxy far far away and death star
-- I copied storm trooper from death star to galaxy far far away and then to tatooine
-- Moved luke and obi wan to millenium falcon
-- Moved millenium falcon to galaxy far far away
-- Moved millenium falcon out of galaxy far far away and into death star
-- Moved Princess leia to millenium falcon
-- Removed obi wan
-- Created yavin 4 and moved millenium falcon out of death star 
-- Millenium falcon didn't moved to yavin 4 it disappeared (I made another Millenium Falcon dir in yavin 4)
-- Created x wing in yavin 4
-- Moved millenium flacon and x wing into galaxy far far away
-- Made tie fighter 1, tie fighter 2, and tie fighter 3 in death star
-- Moved darth vader in tie fighter 1
-- Made a copy of storm trooper in tie fighter 2 and tie fighter 3
-- I moved tie fighter 1, tie fighter 2, and tie fighter 3 out of death star and into galaxy far far away
-- I removed tie fighter 2 and tie fighter 3
-- I touched the force in x wing
-- I removed death star and all inside
-- Moved x wing and Millenium falcon into yavin
--
+- mkdir galaxy far far away 
+- mkdir death star
+- cd into death stard and touched darth vader, princess leia, and storm trooper into death star
+- cd in galaxy far far away and mkdir tatooine
+- touched luke and ben_kenobi inside of tatooine
+- mkdir millenium falcon and touched han solo and chewbaca inside it
+- mv ben kenobi to obi wan
+- cp storm trooper into tatooine
+- mv luke and obi wan to millenium falcon
+- mv millenium falcon out of tatooine and into galaxy far far away
+- mv millenium falcon into to death star
+- mv princess leia into millenim falcon 
+- rm obi wan
+- mkdir yavin4 in galaxy far far away
+- mv millenium falcon out of death star and into yavin4
+- mkdir x wing inside yavin4
+- mv princess leia into yavin4 and luke into x wing
+- mv millenium falcon and x wing to galaxy far far away
+- cd into death star and mkdir tie fighter 1, 2, and 3
+- mv darth vader into tie fighter 1
+- cp storm trooper in tie fighter 2 and 3
+-  mv tie fighter 1, 2, and 3 into galaxy far far away
+- rm -r tie fighter 2 and 3
+- touched the force into x wing
+- rm -r death star
+- mv millenium falcon and x wing into yavin4
